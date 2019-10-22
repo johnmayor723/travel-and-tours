@@ -1,0 +1,131 @@
+ #head {
+   font-weight: bold;
+   padding-left:0;
+  } .carder{
+    color:blue;
+    padding-left: 150px;
+  }
+  .carso{
+    color:indigo;
+    font-size: 30px;
+    font-style: italic;
+  }
+  .godslove{
+    height: 300px;
+    font-weight: bold;
+    font-style: sans-serif;
+  }
+  #godslovetext {
+    padding-top: 0px;
+  }
+  .right{
+    padding-left: 20px;
+  }
+  #service{
+      padding-left:350px;
+     }
+  .header-content{
+        color :white;
+        padding-top:120px;
+        padding-left:300px;
+    }
+  #header-subcontent{
+    padding-left:70px;
+    font-size:40px;
+    font-style:italic;
+ }
+ #actor{
+  padding-left:200px;
+ }
+
+ #godstext{
+  font-style:italic;
+  font-size:40px;
+ }
+
+ #mission{
+   font-style:italic;
+   font-size: 18px;
+ }
+   
+    @media screen and (max-width: 670px){
+      header{
+        min-height: 500px;
+        font-weight: normal;
+      }
+      .header-content{
+        padding-left:70px;
+      }.carder{
+        padding-left:30px;
+      }
+      #head {
+      font-weight: normal;
+    }
+     #testimonies{
+      padding-left: 150px;
+    }
+    #service{
+      padding-left:0px;
+     }
+      #header-subcontent{
+        padding-left:0px;
+        }
+         #actor{
+        padding-left: 0px;
+      }
+     #godstext{
+      font-size:1.7em;
+     }
+   }
+    
+
+    @media screen and (max-width: 450px){
+      header{
+        min-height: 300px; 
+      }
+      #testimonies{
+      padding-left: 80px;
+    }
+     #service{
+      padding-left:80px;
+     }
+   #head {
+      font-weight: normal;
+   
+   }
+      .header-content{
+        padding-left:70px;
+      }
+      #header-subcontent{
+        padding-left:20px;
+        }
+         #actor{
+        padding-left: 0px;
+      }
+    }
+
+
+    .section{
+      padding-top: 4vw;
+      padding-bottom: 4vw;
+    }
+    #about{
+      padding-top:20px;
+     background: #D3D3D3;
+     height: 720px;
+    }
+    img{
+      height:320px;
+    }
+
+    #testimonies{
+      padding-left: 500px;
+    }
+     #logos{
+  height:105px;
+  width:115px;
+ }
+
+
+
+
